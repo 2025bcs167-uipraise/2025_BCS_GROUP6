@@ -1,2 +1,1 @@
-# 2025_BCS_GROUP6
-Class group 
+ DSA group 18_ Sigma
